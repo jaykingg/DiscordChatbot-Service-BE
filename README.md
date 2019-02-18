@@ -1,3 +1,58 @@
+
+
+
+
+
+## discord dev
+
+pyhton 3.6 버전부터됨.
+
+pip install discord.py
+
+pip install --upgrade (필요에 따라) 해줘야함.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # discord.py
 
 [![PyPI](https://img.shields.io/pypi/v/discord.py.svg)](https://pypi.python.org/pypi/discord.py/)
