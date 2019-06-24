@@ -1,15 +1,29 @@
+# *Discord chat bot*
+## Discord chat bot - ê°œì¸ì„œë²„ì—ì„œ LOL ì „ì /ê°„ë‹¨í•œ ê²Œì„ êµ¬í˜„.
 
+### Why did i choose this.
+
+### Development Environments.
+- Python
+- Open Source
+
+### Configuration.
+
+
+### What did i learn.
+
+### What to do in the future.
 
 
 
 
 ## discord dev
 
-pyhton 3.6 ¹öÀüºÎÅÍµÊ.
+pyhton 3.6 ë²„ì „ë¶€í„°ë¨.
 
 pip install discord.py
 
-pip install --upgrade (ÇÊ¿ä¿¡ µû¶ó) ÇØÁà¾ßÇÔ.
+pip install --upgrade (í•„ìš”ì— ë”°ë¼) í•´ì¤˜ì•¼í•¨.
 
 
 
