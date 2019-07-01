@@ -2,19 +2,25 @@
 ## Discord chat bot - 개인서버에서 LOL 전적/간단한 게임 구현.
 
 ### Why did i choose this.
+- 10대부터 30대까지 자주 사용하는 채팅플랫폼 디스코드에 편의 기능을 추가하기 위함.
 
 ### Development Environments.
 - Python
 - Open Source
+- Parsing
 
 ### Configuration.
-
+- Open Source와 Web Parsing 을 이용한 게임전적 호출 기능 구현.
+- 벌칙 또는 무엇을 정하기 위한 간단한 미니 게임 구현.
+- 채팅방에 있는 사용자 호출, 호출 할 때 특정 언급 기능 구현. 
 
 ### What did i learn.
+- 어떻게 Open Source Customizing 을 하는가.
+- Web Parsing 방법.
+- Python Server의 개요.
 
 ### What to do in the future.
-
-
+- 채팅방 사용자가 필요하거나 요구하는 기능이 있다면 추가 할 예정.
 
 
 ## discord dev
